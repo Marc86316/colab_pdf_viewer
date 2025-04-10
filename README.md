@@ -2,11 +2,12 @@
 
 A simple utility to display PDFs as scrollable images in a fixed-size box inside Google Colab or Jupyter Notebook.
 
+![preview](https://raw.githubusercontent.com/Marc86316/colab_pdf_viewer/main/preview.png)
+
 ## 📦 Installation
 
 ```bash
-!apt-get -y install poppler-utils
-!pip install colab-pdf-viewer
+pip install colab-pdf-viewer
 ```
 
 ## 🧪 Example (Google Colab)
@@ -40,4 +41,3 @@ display_scrollable_pdf_from_url(
 ---
 
 Built by [Marc86316](https://github.com/Marc86316).
-
