@@ -16,6 +16,7 @@ pip install colab-pdf-viewer
 
 ```python
 # Install dependencies (in Colab)
+!apt-get update -y # check updation
 !apt-get -y install poppler-utils
 !pip install colab-pdf-viewer
 
