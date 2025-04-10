@@ -16,11 +16,3 @@ display_scrollable_pdf_from_url(
     width=800,
     height=450
 )
-
----
-
-### 4. Commit 初始內容
-
-```bash
-git add .
-git commit -m "Initial commit: PDF viewer module"
