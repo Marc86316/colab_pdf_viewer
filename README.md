@@ -23,7 +23,7 @@ pip install colab-pdf-viewer
 from pdf_viewer import display_scrollable_pdf_from_url
 
 display_scrollable_pdf_from_url(
-    "https://www.africau.edu/images/default/sample.pdf",
+    "https://raw.githubusercontent.com/Marc86316/DataCamp/main/Courses/Sampling_in_Python/ch3_Relative_error_of_point_estimates.pdf",
     width=800,
     height=450
 )
