@@ -2,7 +2,7 @@
 
 A simple utility to display PDFs as scrollable images in a fixed-size box inside Google Colab or Jupyter Notebook.
 
-![preview](https://raw.githubusercontent.com/Marc86316/colab_pdf_viewer/main/preview.png)
+![preview](https://github.com/Marc86316/colab_pdf_viewer/blob/faf2341a4dafb0666a25f016e16be371a697fd21/preview.png)
 
 ## 📦 Installation
 
