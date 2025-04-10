@@ -4,7 +4,10 @@ A simple utility to display PDFs as scrollable images inside a fixed-size box in
 
 ## Install
 
+```python
+!apt-get -y install poppler-utils
 !pip install colab-pdf-viewer
+```
 
 ## Usage (inside Colab)
 
@@ -16,3 +19,4 @@ display_scrollable_pdf_from_url(
     width=800,
     height=450
 )
+```
