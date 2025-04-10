@@ -2,7 +2,7 @@
 
 A simple utility to display PDFs as scrollable images inside a fixed-size box in Google Colab or Jupyter Notebook.
 
-## Install
+## Install (on colab environment)
 
 ```python
 !apt-get -y install poppler-utils
